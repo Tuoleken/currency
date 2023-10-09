@@ -17,9 +17,9 @@ The investigation involved obtaining search warrants for account information and
 A victim lost £6,451 in a cryptocurrency scam after buying a cheap camera on eBay, which led to malware infecting the victim's phone. Unauthorised transactions were made to a cryptocurrency exchange, Coinbase, without the victim's knowledge. Despite the victim's efforts, the bank initially denied reimbursement. After 17 months, the victim finally recovered the money. The incident highlights the risks of malware and the importance of robust security measures in the cryptocurrency market.
 
 
-<img width="1440" alt="image" src="pie_chart.png">
+<img width="1440" alt="image" src="https://github.com/Tuoleken/currency/blob/main/pie_chart.png">
 
 
 
-<img width="776" alt="image" src="articles_count_by_month.png">
+<img width="776" alt="image" src="https://github.com/Tuoleken/currency/blob/main/articles_count_by_month.png">
 
