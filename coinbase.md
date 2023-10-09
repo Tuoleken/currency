@@ -16,11 +16,10 @@ The investigation involved obtaining search warrants for account information and
 
 A victim lost £6,451 in a cryptocurrency scam after buying a cheap camera on eBay, which led to malware infecting the victim's phone. Unauthorised transactions were made to a cryptocurrency exchange, Coinbase, without the victim's knowledge. Despite the victim's efforts, the bank initially denied reimbursement. After 17 months, the victim finally recovered the money. The incident highlights the risks of malware and the importance of robust security measures in the cryptocurrency market.
 
-Below is the data showing the ratio of scam-related mentions of Tether on Google News during July 2022:
 
-<img width="1440" alt="image" src="https://github.com/1712n/crypto-scams-challenge/assets/81870539/510e0b68-4978-42cb-a4e7-e57514f79bc5">
+<img width="1440" alt="image" src="pie_chart.png">
 
-The pie chart below indicates that mentions of Tether related to scams on Google News represented 6.7% of all mentions.
 
-<img width="776" alt="image" src="https://github.com/1712n/crypto-scams-challenge/assets/81870539/389af1cf-6b60-4e8b-b236-9d18840bc531">
+
+<img width="776" alt="image" src="articles_count_by_month.png">
 
